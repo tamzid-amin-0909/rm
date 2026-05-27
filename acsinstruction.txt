@@ -1,0 +1,1299 @@
+:authority
+contentapi.acsfutureschool.com
+:method
+GET
+:path
+/api/tag-description/subjects/f139905f-ebb2-42b8-b42b-8c1c3dcc4f64
+:scheme
+https
+accept
+application/json, text/plain, */*
+accept-encoding
+gzip, deflate, br, zstd
+accept-language
+en-US,en;q=0.9
+authorization
+Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjQ2NDQ0LCJwaG9uZSI6IjAxNTE4MjczMjY4IiwiaXNHdWFyZGlhbiI6ZmFsc2UsIm5hbWUiOiJLSVlPVEFLQSBBWUFOT0tPSkkgIiwianRpIjoiYzE0ODQ1M2YtMTg4ZS00ZTAwLWE5MDEtZTNmNzA3NTg1YTkxIiwiaWF0IjoxNzc5ODA1MjQ4LCJleHAiOjE3ODExMDEyNDh9.KK8cEZaSnrIhGZLlX0L0ZYTxp3nrMNDbEdHWRLY_rH4
+cache-control
+no-cache
+dnt
+1
+origin
+https://acsfutureschool.com
+pragma
+no-cache
+priority
+u=1, i
+referer
+https://acsfutureschool.com/
+sec-ch-ua
+"Avast Secure Browser";v="147", "Not.A/Brand";v="8", "Chromium";v="147"
+sec-ch-ua-mobile
+?0
+sec-ch-ua-platform
+"Windows"
+sec-fetch-dest
+empty
+sec-fetch-mode
+cors
+sec-fetch-site
+same-site
+user-agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Avast/147.0.0.0
+
+
+res
+[
+    {
+        "id": "e5cb61ce-89a0-4fda-832d-1f97dd84e2fc",
+        "tagid": 2,
+        "name": "গুরুত্বপূর্ন সেকশন",
+        "devremarks": "class10 academic26",
+        "serial": 1,
+        "data": null,
+        "parent_id": null,
+        "description": null,
+        "is_active": false,
+        "month": null,
+        "status": null,
+        "free_content_available": false,
+        "number_of_videos": 29,
+        "number_of_notes": 0,
+        "number_of_quizzes": 17,
+        "number_of_suggestion_notes": 0,
+        "product_id": null,
+        "group_link": null,
+        "number_of_archive_videos": 0,
+        "is_in_both_divisions": false,
+        "isEnrolled": true,
+        "access_code": null
+    },
+    {
+        "id": "f5b02bda-4a31-4626-87ea-adb6a668ad01",
+        "tagid": 2,
+        "name": "Bangla 1st Paper",
+        "devremarks": "class10 academic26",
+        "serial": 2,
+        "data": {
+            "iconUrl": "https://pfp.acsfutureschool.com/1763190646567_kn4wk5b5_bangla.png"
+        },
+        "parent_id": null,
+        "description": null,
+        "is_active": false,
+        "month": null,
+        "status": null,
+        "free_content_available": false,
+        "number_of_videos": 26,
+        "number_of_notes": 15,
+        "number_of_quizzes": 22,
+        "number_of_suggestion_notes": 0,
+        "product_id": null,
+        "group_link": null,
+        "number_of_archive_videos": 0,
+        "is_in_both_divisions": false,
+        "isEnrolled": true,
+        "access_code": null
+    },
+    {
+        "id": "4df6d64c-4711-41f3-9e8a-1e714a489b50",
+        "tagid": 2,
+        "name": "Bangla 2nd Paper",
+        "devremarks": "class10 academic26",
+        "serial": 3,
+        "data": {
+            "iconUrl": "https://pfp.acsfutureschool.com/1763190646567_kn4wk5b5_bangla.png"
+        },
+        "parent_id": null,
+        "description": null,
+        "is_active": false,
+        "month": null,
+        "status": null,
+        "free_content_available": false,
+        "number_of_videos": 9,
+        "number_of_notes": 7,
+        "number_of_quizzes": 8,
+        "number_of_suggestion_notes": 0,
+        "product_id": null,
+        "group_link": null,
+        "number_of_archive_videos": 0,
+        "is_in_both_divisions": false,
+        "isEnrolled": true,
+        "access_code": null
+    },
+    {
+        "id": "14a0adb4-e192-4038-ae57-6fdfeb47906f",
+        "tagid": 2,
+        "name": "English 1st Paper",
+        "devremarks": "class10 academic26",
+        "serial": 4,
+        "data": {
+            "iconUrl": "https://pfp.acsfutureschool.com/1763190774799_ey78vhr6_english.png"
+        },
+        "parent_id": null,
+        "description": null,
+        "is_active": false,
+        "month": null,
+        "status": null,
+        "free_content_available": false,
+        "number_of_videos": 20,
+        "number_of_notes": 7,
+        "number_of_quizzes": 14,
+        "number_of_suggestion_notes": 0,
+        "product_id": null,
+        "group_link": null,
+        "number_of_archive_videos": 0,
+        "is_in_both_divisions": false,
+        "isEnrolled": true,
+        "access_code": null
+    },
+    {
+        "id": "43df6836-7045-4b86-9bee-ec59ab65f919",
+        "tagid": 2,
+        "name": "English 2nd Paper",
+        "devremarks": "class10 academic26",
+        "serial": 5,
+        "data": {
+            "iconUrl": "https://pfp.acsfutureschool.com/1763190774799_ey78vhr6_english.png"
+        },
+        "parent_id": null,
+        "description": null,
+        "is_active": false,
+        "month": null,
+        "status": null,
+        "free_content_available": false,
+        "number_of_videos": 17,
+        "number_of_notes": 13,
+        "number_of_quizzes": 13,
+        "number_of_suggestion_notes": 0,
+        "product_id": null,
+        "group_link": null,
+        "number_of_archive_videos": 0,
+        "is_in_both_divisions": false,
+        "isEnrolled": true,
+        "access_code": null
+    },
+    {
+        "id": "ee39fc45-63a3-4008-8a80-772e3766517b",
+        "tagid": 2,
+        "name": "General Math",
+        "devremarks": "class10 academic26",
+        "serial": 6,
+        "data": {
+            "iconUrl": "https://pfp.acsfutureschool.com/1763190858770_dcw9t1v4_math.png"
+        },
+        "parent_id": null,
+        "description": null,
+        "is_active": false,
+        "month": null,
+        "status": null,
+        "free_content_available": false,
+        "number_of_videos": 60,
+        "number_of_notes": 11,
+        "number_of_quizzes": 45,
+        "number_of_suggestion_notes": 0,
+        "product_id": null,
+        "group_link": null,
+        "number_of_archive_videos": 0,
+        "is_in_both_divisions": false,
+        "isEnrolled": true,
+        "access_code": null
+    },
+    {
+        "id": "e9ec4a67-04d2-46bd-a2dd-2d3a8587d568",
+        "tagid": 2,
+        "name": "Higher Math",
+        "devremarks": "class10 academic26",
+        "serial": 7,
+        "data": {
+            "iconUrl": "https://pfp.acsfutureschool.com/1763190800963_xe1by2jx_higher_math.png"
+        },
+        "parent_id": null,
+        "description": null,
+        "is_active": false,
+        "month": null,
+        "status": null,
+        "free_content_available": false,
+        "number_of_videos": 58,
+        "number_of_notes": 9,
+        "number_of_quizzes": 46,
+        "number_of_suggestion_notes": 0,
+        "product_id": null,
+        "group_link": null,
+        "number_of_archive_videos": 0,
+        "is_in_both_divisions": false,
+        "isEnrolled": true,
+        "access_code": null
+    },
+    {
+        "id": "7054f454-4646-41e8-bb9a-b381d6ad6ba3",
+        "tagid": 2,
+        "name": "Physics",
+        "devremarks": "class10 academic26",
+        "serial": 8,
+        "data": {
+            "iconUrl": "https://pfp.acsfutureschool.com/1763190880405_0ngmbdrq_physics.png"
+        },
+        "parent_id": null,
+        "description": null,
+        "is_active": false,
+        "month": null,
+        "status": null,
+        "free_content_available": false,
+        "number_of_videos": 43,
+        "number_of_notes": 4,
+        "number_of_quizzes": 39,
+        "number_of_suggestion_notes": 0,
+        "product_id": null,
+        "group_link": null,
+        "number_of_archive_videos": 0,
+        "is_in_both_divisions": false,
+        "isEnrolled": true,
+        "access_code": null
+    },
+    {
+        "id": "6f2c2f22-14b3-430b-a633-ff6d9c8ef33c",
+        "tagid": 2,
+        "name": "Chemistry",
+        "devremarks": "class10 academic26",
+        "serial": 9,
+        "data": {
+            "iconUrl": "https://pfp.acsfutureschool.com/1763190750894_ocr2xwkz_Chamisty.png"
+        },
+        "parent_id": null,
+        "description": null,
+        "is_active": false,
+        "month": null,
+        "status": null,
+        "free_content_available": false,
+        "number_of_videos": 51,
+        "number_of_notes": 9,
+        "number_of_quizzes": 28,
+        "number_of_suggestion_notes": 0,
+        "product_id": null,
+        "group_link": null,
+        "number_of_archive_videos": 0,
+        "is_in_both_divisions": false,
+        "isEnrolled": true,
+        "access_code": null
+    },
+    {
+        "id": "3cea9e4a-69f9-447c-ba0d-6a0776481dbb",
+        "tagid": 2,
+        "name": "Biology",
+        "devremarks": "class10 academic26",
+        "serial": 10,
+        "data": {
+            "iconUrl": "https://pfp.acsfutureschool.com/1763190675400_831javk8_biology.png"
+        },
+        "parent_id": null,
+        "description": null,
+        "is_active": false,
+        "month": null,
+        "status": null,
+        "free_content_available": false,
+        "number_of_videos": 31,
+        "number_of_notes": 5,
+        "number_of_quizzes": 27,
+        "number_of_suggestion_notes": 0,
+        "product_id": null,
+        "group_link": null,
+        "number_of_archive_videos": 0,
+        "is_in_both_divisions": false,
+        "isEnrolled": true,
+        "access_code": null
+    },
+    {
+        "id": "cee86a4f-c56f-48d1-9e19-0f4ab68bdcfc",
+        "tagid": 2,
+        "name": "ICT",
+        "devremarks": "class10 academic26",
+        "serial": 11,
+        "data": {
+            "iconUrl": "https://pfp.acsfutureschool.com/1763190825015_jk1qrkfr_ict.png"
+        },
+        "parent_id": null,
+        "description": null,
+        "is_active": false,
+        "month": null,
+        "status": null,
+        "free_content_available": false,
+        "number_of_videos": 14,
+        "number_of_notes": 5,
+        "number_of_quizzes": 11,
+        "number_of_suggestion_notes": 0,
+        "product_id": null,
+        "group_link": null,
+        "number_of_archive_videos": 0,
+        "is_in_both_divisions": false,
+        "isEnrolled": true,
+        "access_code": null
+    },
+    {
+        "id": "d542da63-d5b6-4200-99cc-7c24aba0088c",
+        "tagid": 2,
+        "name": "BGS",
+        "devremarks": "class10 academic26",
+        "serial": 12,
+        "data": {
+            "iconUrl": "https://pfp.acsfutureschool.com/1763976310123_yk6ec5u1_motin-vai.png"
+        },
+        "parent_id": null,
+        "description": null,
+        "is_active": false,
+        "month": null,
+        "status": null,
+        "free_content_available": false,
+        "number_of_videos": 12,
+        "number_of_notes": 4,
+        "number_of_quizzes": 12,
+        "number_of_suggestion_notes": 0,
+        "product_id": null,
+        "group_link": null,
+        "number_of_archive_videos": 0,
+        "is_in_both_divisions": false,
+        "isEnrolled": true,
+        "access_code": null
+    }
+]
+
+
+
+req:authority
+contentapi.acsfutureschool.com
+:method
+GET
+:path
+/api/tag-description/chapters/14a0adb4-e192-4038-ae57-6fdfeb47906f
+:scheme
+https
+accept
+application/json, text/plain, */*
+accept-encoding
+gzip, deflate, br, zstd
+accept-language
+en-US,en;q=0.9
+authorization
+Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjQ2NDQ0LCJwaG9uZSI6IjAxNTE4MjczMjY4IiwiaXNHdWFyZGlhbiI6ZmFsc2UsIm5hbWUiOiJLSVlPVEFLQSBBWUFOT0tPSkkgIiwianRpIjoiYzE0ODQ1M2YtMTg4ZS00ZTAwLWE5MDEtZTNmNzA3NTg1YTkxIiwiaWF0IjoxNzc5ODA1MjQ4LCJleHAiOjE3ODExMDEyNDh9.KK8cEZaSnrIhGZLlX0L0ZYTxp3nrMNDbEdHWRLY_rH4
+cache-control
+no-cache
+dnt
+1
+origin
+https://acsfutureschool.com
+pragma
+no-cache
+priority
+u=1, i
+referer
+https://acsfutureschool.com/
+sec-ch-ua
+"Avast Secure Browser";v="147", "Not.A/Brand";v="8", "Chromium";v="147"
+sec-ch-ua-mobile
+?0
+sec-ch-ua-platform
+"Windows"
+sec-fetch-dest
+empty
+sec-fetch-mode
+cors
+sec-fetch-site
+same-site
+user-agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Avast/147.0.0.0
+
+res
+[
+    {
+        "id": "f889fe3b-353e-4232-b448-0ad75e3b84cc",
+        "tagid": 4,
+        "name": "Unit 13 - Loneliness ",
+        "devremarks": null,
+        "serial": 1,
+        "data": {
+            "iconUrl": "https://pfp.acsfutureschool.com/1777553927406_s51k0rbq_Chapter-4.png"
+        },
+        "parent_id": "14a0adb4-e192-4038-ae57-6fdfeb47906f",
+        "description": null,
+        "is_active": false,
+        "month": "August",
+        "status": "Live",
+        "free_content_available": false,
+        "number_of_videos": 3,
+        "number_of_notes": 1,
+        "number_of_quizzes": 2,
+        "number_of_suggestion_notes": 0,
+        "product_id": null,
+        "group_link": null,
+        "number_of_archive_videos": 0,
+        "is_in_both_divisions": false,
+        "chapter_status": "recorded",
+        "video_count": "3",
+        "archive_count": "2",
+        "exam_count": "2"
+    },
+    {
+        "id": "54e70493-89df-4449-a94a-5323bcc0f8ec",
+        "tagid": 4,
+        "name": "Unit 12 - Roots",
+        "devremarks": null,
+        "serial": 2,
+        "data": {
+            "iconUrl": "https://pfp.acsfutureschool.com/1776956917254_s1sqeq2u_Chapter.png"
+        },
+        "parent_id": "14a0adb4-e192-4038-ae57-6fdfeb47906f",
+        "description": null,
+        "is_active": false,
+        "month": "February",
+        "status": "Live",
+        "free_content_available": false,
+        "number_of_videos": 2,
+        "number_of_notes": 0,
+        "number_of_quizzes": 2,
+        "number_of_suggestion_notes": 0,
+        "product_id": null,
+        "group_link": null,
+        "number_of_archive_videos": 0,
+        "is_in_both_divisions": false,
+        "chapter_status": "recorded",
+        "video_count": "2",
+        "archive_count": "0",
+        "exam_count": "2"
+    },
+    {
+        "id": "b789edac-496a-4c6c-ab12-f384c6f92ddf",
+        "tagid": 4,
+        "name": "Summary Writing & Information Transfer",
+        "devremarks": null,
+        "serial": 3,
+        "data": {
+            "iconUrl": "https://pfp.acsfutureschool.com/1776960593600_lmbq19eb_Chapter.png"
+        },
+        "parent_id": "14a0adb4-e192-4038-ae57-6fdfeb47906f",
+        "description": null,
+        "is_active": false,
+        "month": "April",
+        "status": "",
+        "free_content_available": false,
+        "number_of_videos": 1,
+        "number_of_notes": 0,
+        "number_of_quizzes": 0,
+        "number_of_suggestion_notes": 0,
+        "product_id": null,
+        "group_link": null,
+        "number_of_archive_videos": 0,
+        "is_in_both_divisions": false,
+        "chapter_status": "recorded",
+        "video_count": "1",
+        "archive_count": "1",
+        "exam_count": "0"
+    },
+    {
+        "id": "49a64f19-3d8a-4ea7-9f9b-2e324bd33cb1",
+        "tagid": 4,
+        "name": "Unit 4 - Events and Festivals",
+        "devremarks": null,
+        "serial": 4,
+        "data": {
+            "iconUrl": "https://pfp.acsfutureschool.com/1772225502513_ogasb3e0_Chapter.png"
+        },
+        "parent_id": "14a0adb4-e192-4038-ae57-6fdfeb47906f",
+        "description": null,
+        "is_active": false,
+        "month": "March",
+        "status": "",
+        "free_content_available": false,
+        "number_of_videos": 4,
+        "number_of_notes": 1,
+        "number_of_quizzes": 3,
+        "number_of_suggestion_notes": 0,
+        "product_id": null,
+        "group_link": null,
+        "number_of_archive_videos": 0,
+        "is_in_both_divisions": false,
+        "chapter_status": "recorded",
+        "video_count": "3",
+        "archive_count": "0",
+        "exam_count": "3"
+    },
+    {
+        "id": "dff0a10b-9b14-4df7-96ad-3d50f83739e4",
+        "tagid": 4,
+        "name": "Unit 2 - Climate Change",
+        "devremarks": null,
+        "serial": 5,
+        "data": {
+            "iconUrl": "https://pfp.acsfutureschool.com/1771494910237_hlf4ptym_Chapter.png"
+        },
+        "parent_id": "14a0adb4-e192-4038-ae57-6fdfeb47906f",
+        "description": null,
+        "is_active": false,
+        "month": "February",
+        "status": "",
+        "free_content_available": false,
+        "number_of_videos": 2,
+        "number_of_notes": 1,
+        "number_of_quizzes": 2,
+        "number_of_suggestion_notes": 0,
+        "product_id": null,
+        "group_link": null,
+        "number_of_archive_videos": 0,
+        "is_in_both_divisions": false,
+        "chapter_status": "recorded",
+        "video_count": "2",
+        "archive_count": "2",
+        "exam_count": "2"
+    },
+    {
+        "id": "4b967fe6-11c9-4567-81d6-a70960a76e86",
+        "tagid": 4,
+        "name": "Unit 9 - Unconventional Jobs",
+        "devremarks": null,
+        "serial": 6,
+        "data": {
+            "iconUrl": "https://pfp.acsfutureschool.com/1771494877254_bzuhoiua_Chapter.png"
+        },
+        "parent_id": "14a0adb4-e192-4038-ae57-6fdfeb47906f",
+        "description": null,
+        "is_active": false,
+        "month": "January",
+        "status": "",
+        "free_content_available": false,
+        "number_of_videos": 3,
+        "number_of_notes": 1,
+        "number_of_quizzes": 3,
+        "number_of_suggestion_notes": 0,
+        "product_id": null,
+        "group_link": null,
+        "number_of_archive_videos": 0,
+        "is_in_both_divisions": false,
+        "chapter_status": "recorded",
+        "video_count": "3",
+        "archive_count": "0",
+        "exam_count": "3"
+    },
+    {
+        "id": "46fd3c45-203b-477e-83ba-fc5481f59804",
+        "tagid": 4,
+        "name": "Unit 5 - Problems Around Us ",
+        "devremarks": null,
+        "serial": 7,
+        "data": {
+            "iconUrl": "https://pfp.acsfutureschool.com/1769518265545_qldsnk16_1.png"
+        },
+        "parent_id": "14a0adb4-e192-4038-ae57-6fdfeb47906f",
+        "description": null,
+        "is_active": false,
+        "month": "January",
+        "status": "",
+        "free_content_available": false,
+        "number_of_videos": 3,
+        "number_of_notes": 1,
+        "number_of_quizzes": 3,
+        "number_of_suggestion_notes": 0,
+        "product_id": null,
+        "group_link": null,
+        "number_of_archive_videos": 0,
+        "is_in_both_divisions": false,
+        "chapter_status": "recorded",
+        "video_count": "3",
+        "archive_count": "0",
+        "exam_count": "3"
+    },
+    {
+        "id": "7afce3ff-da11-40b8-a860-aecda67e5220",
+        "tagid": 4,
+        "name": "Revision Class ",
+        "devremarks": null,
+        "serial": 8,
+        "data": {
+            "iconUrl": "https://pfp.acsfutureschool.com/1757689225444_y0wxxs1g_Playlist-13.png"
+        },
+        "parent_id": "14a0adb4-e192-4038-ae57-6fdfeb47906f",
+        "description": null,
+        "is_active": false,
+        "month": "September",
+        "status": "",
+        "free_content_available": false,
+        "number_of_videos": 0,
+        "number_of_notes": 0,
+        "number_of_quizzes": 0,
+        "number_of_suggestion_notes": 0,
+        "product_id": null,
+        "group_link": null,
+        "number_of_archive_videos": 0,
+        "is_in_both_divisions": false,
+        "chapter_status": "recorded",
+        "video_count": "0",
+        "archive_count": "1",
+        "exam_count": "0"
+    },
+    {
+        "id": "e795f917-dbc1-4c6d-ad9f-c621f0305cb7",
+        "tagid": 4,
+        "name": "Graffiti ",
+        "devremarks": null,
+        "serial": 9,
+        "data": {
+            "iconUrl": "https://pfp.acsfutureschool.com/1757689237584_l3cpjqs7_Playlist-12.png"
+        },
+        "parent_id": "14a0adb4-e192-4038-ae57-6fdfeb47906f",
+        "description": null,
+        "is_active": false,
+        "month": "September",
+        "status": "",
+        "free_content_available": false,
+        "number_of_videos": 0,
+        "number_of_notes": 1,
+        "number_of_quizzes": 2,
+        "number_of_suggestion_notes": 0,
+        "product_id": null,
+        "group_link": null,
+        "number_of_archive_videos": 0,
+        "is_in_both_divisions": false,
+        "chapter_status": "recorded",
+        "video_count": "0",
+        "archive_count": "2",
+        "exam_count": "0"
+    },
+    {
+        "id": "65766aff-04d1-4aea-9c4c-a2968386fcd0",
+        "tagid": 4,
+        "name": "Dialogue & Completing Story",
+        "devremarks": null,
+        "serial": 10,
+        "data": {
+            "iconUrl": "https://pfp.acsfutureschool.com/1757689308251_bthsobht_r.png"
+        },
+        "parent_id": "14a0adb4-e192-4038-ae57-6fdfeb47906f",
+        "description": null,
+        "is_active": false,
+        "month": "September",
+        "status": "",
+        "free_content_available": false,
+        "number_of_videos": 0,
+        "number_of_notes": 0,
+        "number_of_quizzes": 0,
+        "number_of_suggestion_notes": 0,
+        "product_id": null,
+        "group_link": null,
+        "number_of_archive_videos": 0,
+        "is_in_both_divisions": false,
+        "chapter_status": "recorded",
+        "video_count": "0",
+        "archive_count": "1",
+        "exam_count": "0"
+    },
+    {
+        "id": "78d24814-d387-4a69-9258-07435f2e21a9",
+        "tagid": 4,
+        "name": "Reading from English Literature ",
+        "devremarks": null,
+        "serial": 11,
+        "data": {
+            "iconUrl": "https://pfp.acsfutureschool.com/1757689340008_d69bxum0_Playlist-9.png"
+        },
+        "parent_id": "14a0adb4-e192-4038-ae57-6fdfeb47906f",
+        "description": null,
+        "is_active": false,
+        "month": "July",
+        "status": "",
+        "free_content_available": false,
+        "number_of_videos": 4,
+        "number_of_notes": 1,
+        "number_of_quizzes": 0,
+        "number_of_suggestion_notes": 0,
+        "product_id": null,
+        "group_link": null,
+        "number_of_archive_videos": 0,
+        "is_in_both_divisions": false,
+        "chapter_status": "recorded",
+        "video_count": "0",
+        "archive_count": "4",
+        "exam_count": "0"
+    },
+    {
+        "id": "8e4fe963-6e50-4218-9e35-e821be731517",
+        "tagid": 4,
+        "name": "Rearrange",
+        "devremarks": null,
+        "serial": 12,
+        "data": {
+            "iconUrl": "https://pfp.acsfutureschool.com/1757689354164_1vl97mj4_Playlist-8.png"
+        },
+        "parent_id": "14a0adb4-e192-4038-ae57-6fdfeb47906f",
+        "description": null,
+        "is_active": false,
+        "month": "July",
+        "status": "",
+        "free_content_available": false,
+        "number_of_videos": 0,
+        "number_of_notes": 0,
+        "number_of_quizzes": 0,
+        "number_of_suggestion_notes": 0,
+        "product_id": null,
+        "group_link": null,
+        "number_of_archive_videos": 0,
+        "is_in_both_divisions": false,
+        "chapter_status": "recorded",
+        "video_count": "0",
+        "archive_count": "1",
+        "exam_count": "0"
+    },
+    {
+        "id": "da313f60-d7b5-4ded-a78f-ad15d9622bdc",
+        "tagid": 4,
+        "name": "Answering Questions from Stories",
+        "devremarks": null,
+        "serial": 13,
+        "data": {
+            "iconUrl": "https://pfp.acsfutureschool.com/1757689391181_ghd56kex_Playlist-7.png"
+        },
+        "parent_id": "14a0adb4-e192-4038-ae57-6fdfeb47906f",
+        "description": null,
+        "is_active": false,
+        "month": "May",
+        "status": "",
+        "free_content_available": false,
+        "number_of_videos": 1,
+        "number_of_notes": 0,
+        "number_of_quizzes": 0,
+        "number_of_suggestion_notes": 0,
+        "product_id": null,
+        "group_link": null,
+        "number_of_archive_videos": 0,
+        "is_in_both_divisions": false,
+        "chapter_status": "recorded",
+        "video_count": "0",
+        "archive_count": "1",
+        "exam_count": "0"
+    },
+    {
+        "id": "c0668948-a28f-420e-9888-4f98f7080326",
+        "tagid": 4,
+        "name": "Dreams ",
+        "devremarks": null,
+        "serial": 14,
+        "data": {
+            "iconUrl": "https://pfp.acsfutureschool.com/1757689405737_6bvlrg04_Playlist-6.png"
+        },
+        "parent_id": "14a0adb4-e192-4038-ae57-6fdfeb47906f",
+        "description": null,
+        "is_active": false,
+        "month": "May",
+        "status": "",
+        "free_content_available": false,
+        "number_of_videos": 0,
+        "number_of_notes": 1,
+        "number_of_quizzes": 1,
+        "number_of_suggestion_notes": 0,
+        "product_id": null,
+        "group_link": null,
+        "number_of_archive_videos": 0,
+        "is_in_both_divisions": false,
+        "chapter_status": "recorded",
+        "video_count": "0",
+        "archive_count": "2",
+        "exam_count": "0"
+    },
+    {
+        "id": "1bb08b7d-c6c7-4ce4-bdd1-48f6687731ad",
+        "tagid": 4,
+        "name": "Answering Questions from Poems ",
+        "devremarks": null,
+        "serial": 15,
+        "data": {
+            "iconUrl": "https://pfp.acsfutureschool.com/1757689418537_89ojqn2x_Playlist-5.png"
+        },
+        "parent_id": "14a0adb4-e192-4038-ae57-6fdfeb47906f",
+        "description": null,
+        "is_active": false,
+        "month": "May",
+        "status": "",
+        "free_content_available": false,
+        "number_of_videos": 0,
+        "number_of_notes": 1,
+        "number_of_quizzes": 0,
+        "number_of_suggestion_notes": 0,
+        "product_id": null,
+        "group_link": null,
+        "number_of_archive_videos": 0,
+        "is_in_both_divisions": false,
+        "chapter_status": "recorded",
+        "video_count": "0",
+        "archive_count": "2",
+        "exam_count": "0"
+    },
+    {
+        "id": "e8a2e9bd-17d7-4501-ace5-b234e4e52d98",
+        "tagid": 4,
+        "name": "Our Neighbors",
+        "devremarks": null,
+        "serial": 16,
+        "data": {
+            "iconUrl": "https://pfp.acsfutureschool.com/1757689431511_3fzxhvm7_Playlist-3.png"
+        },
+        "parent_id": "14a0adb4-e192-4038-ae57-6fdfeb47906f",
+        "description": null,
+        "is_active": false,
+        "month": "April",
+        "status": "",
+        "free_content_available": false,
+        "number_of_videos": 0,
+        "number_of_notes": 1,
+        "number_of_quizzes": 3,
+        "number_of_suggestion_notes": 0,
+        "product_id": null,
+        "group_link": null,
+        "number_of_archive_videos": 0,
+        "is_in_both_divisions": false,
+        "chapter_status": "recorded",
+        "video_count": "0",
+        "archive_count": "3",
+        "exam_count": "0"
+    },
+    {
+        "id": "d3c86acd-e93b-49c9-8187-4ecc6687db48",
+        "tagid": 4,
+        "name": "English - Bundle 1",
+        "devremarks": null,
+        "serial": 17,
+        "data": {
+            "iconUrl": "https://pfp.acsfutureschool.com/1743191009059_c5czfl34_undefined"
+        },
+        "parent_id": "14a0adb4-e192-4038-ae57-6fdfeb47906f",
+        "description": "০টি ভিডিও |  ০টি কুইজ |  ০টি নোট |  ০টি সাজেশন পিডিএফ",
+        "is_active": false,
+        "month": "January",
+        "status": "Live",
+        "free_content_available": false,
+        "number_of_videos": 0,
+        "number_of_notes": 1,
+        "number_of_quizzes": 0,
+        "number_of_suggestion_notes": 0,
+        "product_id": null,
+        "group_link": null,
+        "number_of_archive_videos": 0,
+        "is_in_both_divisions": false,
+        "chapter_status": "recorded",
+        "video_count": "0",
+        "archive_count": "0",
+        "exam_count": "0"
+    },
+    {
+        "id": "5c5fbfb4-f872-4451-90a8-55db9f0c6a7b",
+        "tagid": 4,
+        "name": "Pastimes ",
+        "devremarks": null,
+        "serial": 18,
+        "data": {
+            "iconUrl": "https://pfp.acsfutureschool.com/1757689464868_axnytu8n_Playlist-2.png"
+        },
+        "parent_id": "14a0adb4-e192-4038-ae57-6fdfeb47906f",
+        "description": null,
+        "is_active": false,
+        "month": "March",
+        "status": "",
+        "free_content_available": false,
+        "number_of_videos": 0,
+        "number_of_notes": 1,
+        "number_of_quizzes": 2,
+        "number_of_suggestion_notes": 0,
+        "product_id": null,
+        "group_link": null,
+        "number_of_archive_videos": 0,
+        "is_in_both_divisions": false,
+        "chapter_status": "recorded",
+        "video_count": "0",
+        "archive_count": "2",
+        "exam_count": "0"
+    },
+    {
+        "id": "c5f3cbf1-ccee-4f5c-8dbf-edf6de7fb20b",
+        "tagid": 4,
+        "name": "Sense of Self",
+        "devremarks": "Class 10 online batch chapters",
+        "serial": 19,
+        "data": {
+            "iconUrl": "https://pfp.acsfutureschool.com/1757689493441_448mm0mz_Playlist.png"
+        },
+        "parent_id": "14a0adb4-e192-4038-ae57-6fdfeb47906f",
+        "description": null,
+        "is_active": false,
+        "month": "February",
+        "status": "",
+        "free_content_available": false,
+        "number_of_videos": 3,
+        "number_of_notes": 1,
+        "number_of_quizzes": 2,
+        "number_of_suggestion_notes": 0,
+        "product_id": null,
+        "group_link": null,
+        "number_of_archive_videos": 0,
+        "is_in_both_divisions": false,
+        "chapter_status": "recorded",
+        "video_count": "0",
+        "archive_count": "2",
+        "exam_count": "0"
+    }
+]
+
+req
+:authority
+acsfutureschool.com
+:method
+GET
+:path
+/chapter/f889fe3b-353e-4232-b448-0ad75e3b84cc/live?chapterName=Unit+13+-+Loneliness+&subjectId=14a0adb4-e192-4038-ae57-6fdfeb47906f
+:scheme
+https
+accept
+text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+accept-encoding
+gzip, deflate, br, zstd
+accept-language
+en-US,en;q=0.9
+cache-control
+no-cache
+cookie
+_fbp=fb.1.1779891487626.501851316433639466; afs-acc-token-parent=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTgxMzQ1LCJqdGkiOiI2OWUyNzZhYi1iYzRhLTQ3ZWMtOTFkNS00OWRjZGRjYjg5NTgiLCJpYXQiOjE3Nzk4MDUyNDgsImV4cCI6MTc4MTEwMTI0OH0.L1yCztRr7Dh4bQXB42uQc_hOUZwuiHHAGBs1XetT61s; afs-refresh-token-parent=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTgxMzQ1LCJqdGkiOiI4YzcxYmI0Ny1jZmM5LTQ1NzItYjkwNC03NjhmOWM2NjVkYzQiLCJpYXQiOjE3Nzk4MDUyNDgsImV4cCI6MTc4MjM5NzI0OH0.ROmZ-eWHg2_3KskhqyumbpPBJVM5SJGsozmPqT3sq-o; afs-acc-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjQ2NDQ0LCJwaG9uZSI6IjAxNTE4MjczMjY4IiwiaXNHdWFyZGlhbiI6ZmFsc2UsIm5hbWUiOiJLSVlPVEFLQSBBWUFOT0tPSkkgIiwianRpIjoiYzE0ODQ1M2YtMTg4ZS00ZTAwLWE5MDEtZTNmNzA3NTg1YTkxIiwiaWF0IjoxNzc5ODA1MjQ4LCJleHAiOjE3ODExMDEyNDh9.KK8cEZaSnrIhGZLlX0L0ZYTxp3nrMNDbEdHWRLY_rH4; afs-refresh-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjQ2NDQ0LCJwaG9uZSI6IjAxNTE4MjczMjY4IiwiaXNHdWFyZGlhbiI6ZmFsc2UsIm5hbWUiOiJLSVlPVEFLQSBBWUFOT0tPSkkgIiwianRpIjoiZWMxMmZlYTEtZjlmOS00Y2YxLWFlN2EtNGExOTYwYzVmNWVkIiwiaWF0IjoxNzc5ODA1MjQ4LCJleHAiOjE3ODIzOTcyNDh9.DJpjtjfmy2wSQ-f5nVDbnRZZrnvKMSi7SsvTgCM8k-U; _gcl_au=1.1.949647844.1779891504; _hjSession_5234189=eyJpZCI6IjcxMTUxMzAxLTY0NzItNDE1NC1iY2Q3LTdiN2E2ZGU2OWU4NSIsImMiOjE3Nzk4OTE1MDM2NTAsInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjoxfQ==; _clck=1empnzm%5E2%5Eg6e%5E0%5E2338; _hjSessionUser_5234189=eyJpZCI6IjJlMDc1MmRiLWUzZTctNWQ4Ny1iZjNiLTMzNzkzMzUyZWUxMiIsImNyZWF0ZWQiOjE3Nzk4OTE1MDM2NDksImV4aXN0aW5nIjp0cnVlfQ==; cf_clearance=6LxhbMXI9WKfQveAc82G8ITT5TbNwdaq7vywuJxLA0g-1779892110-1.2.1.1-NkZ9sa8By9QRTAITwHhC3dIcjn5xohaiO.waxF35ISAdQAp9K16iZvz7BqEZIhrLh2IQFnQhVgf_TbO8Qyf67fs.nR99eiqjarscGWiUsz3gPv6CgVod16i4iEVXL0cdw6zBijPECHozlTp7Xgl5SMpDs8zJOBJjT257LSUl9lVYB.XqH0kU7_eokdOFXIwTwNv1RFjD5o2x1mHGR8zXFsJidZNTP8GC4mh0C3V7KUN.vnWaMVW8kOIYScHp3zAeh2Pjv_gL_wfk4W2xUIYELXJnh.tV1qCEeBhfpJQU91FihJdz8RXf35aUo9ObVH_6eSlCGbSN6mneZtvj8fUpgA; profile-cache={%22data%22:[{%22id%22:246444%2C%22parent_id%22:181345%2C%22phone%22:%2201518273268%22%2C%22focus_mode%22:false%2C%22is_parental_focus_mode%22:false%2C%22isGuardian%22:false%2C%22name%22:%22KIYOTAKA%20AYANOKOJI%20%22%2C%22imageUrl%22:%22https://pfp.acsfutureschool.com/1778603100110_wcu5k5d9_profile/01518273268FP03wE.png%22%2C%22school%22:%22CLASSROOM%20OF%20THE%20ELITE%22%2C%22class%22:10%2C%22is_popup_shown%22:true%2C%22section%22:null%2C%22isPremium%22:true}]%2C%22timestamp%22:1779892220575%2C%22expiresAt%22:1779978620575}; _clsk=134ihe%5E1779892396477%5E15%5E1%5Eo.clarity.ms%2Fcollect
+dnt
+1
+pragma
+no-cache
+priority
+u=0, i
+sec-ch-ua
+"Avast Secure Browser";v="147", "Not.A/Brand";v="8", "Chromium";v="147"
+sec-ch-ua-mobile
+?0
+sec-ch-ua-platform
+"Windows"
+sec-fetch-dest
+document
+sec-fetch-mode
+navigate
+sec-fetch-site
+same-origin
+sec-fetch-user
+?1
+upgrade-insecure-requests
+1
+user-agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Avast/147.0.0.0
+
+
+response has many scripts but i need this types
+
+
+<script>
+            self.__next_f.push([1, "b:[\"$\",\"div\",null,{\"children\":[[\"$\",\"div\",null,{\"className\":\"fixed w-full top-0 flex justify-center z-30\",\"children\":[\"$\",\"$L13\",null,{}]}],[\"$\",\"div\",null,{\"className\":\"flex flex-col gap-2 mt-[80px] p-4 max-w-7xl mx-auto w-full\",\"children\":[[\"$\",\"$L14\",null,{\"title\":\"Unit 13 - Loneliness \"}],null,[\"$\",\"div\",null,{\"className\":\"flex flex-wrap justify-center\",\"children\":[[\"$\",\"a\",null,{\"className\":\"md:min-w-[310px] md:max-w-[310px] min-w-64 max-w-64 bg-white overflow-hidden relative transition-all duration-100 ease-in-out rounded-lg p-2 hover:bg-gray-500 hover:bg-opacity-10 active:bg-opacity-20 cursor-pointer\",\"href\":\"/live/14a0adb4-e192-4038-ae57-6fdfeb47906f/7c42b250-6caf-4879-ac3a-0956153669a1\",\"children\":[[\"$\",\"div\",null,{\"className\":\"relative rounded-lg\",\"children\":[[\"$\",\"img\",null,{\"src\":\"https://codervaimedia.s3.ap-south-1.amazonaws.com/1777554669988-Topic-14.png\",\"alt\":\"Background pattern\",\"className\":\"rounded-lg object-cover w-full aspect-video\"}],false,false,[\"$\",\"div\",null,{\"className\":\"absolute bottom-0 bg-gray-500 backdrop-blur-sm bg-opacity-60 w-full right-0 flex justify-center gap-2 items-center p-1 rounded-b-lg\",\"children\":[\"$\",\"p\",null,{\"className\":\"text-center text-white\",\"children\":\"Recorded\"}]}]]}],[\"$\",\"div\",null,{\"className\":\"relative\",\"children\":[[\"$\",\"h2\",null,{\"className\":\"text-xl font-semibold mb-1\",\"children\":\"Unit 13 - Loneliness - Part 1\"}],[\"$\",\"div\",null,{\"className\":\"flex items-center text-sm text-gray-600\",\"children\":[[\"$\",\"svg\",null,{\"xmlns\":\"http://www.w3.org/2000/svg\",\"className\":\"h-4 w-4 mr-1\",\"fill\":\"none\",\"viewBox\":\"0 0 24 24\",\"stroke\":\"currentColor\",\"children\":[\"$\",\"path\",null,{\"strokeLinecap\":\"round\",\"strokeLinejoin\":\"round\",\"strokeWidth\":2,\"d\":\"M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z\"}]}],\"সন্ধ্যা ০৭:১০\"]}],[\"$\",\"div\",null,{\"className\":\"flex items-center text-sm text-gray-600 mt-1\",\"children\":[[\"$\",\"svg\",null,{\"xmlns\":\"http://www.w3.org/2000/svg\",\"className\":\"h-4 w-4 mr-1\",\"fill\":\"none\",\"viewBox\":\"0 0 24 24\",\"stroke\":\"currentColor\",\"children\":[\"$\",\"path\",null,{\"strokeLinecap\":\"round\",\"strokeLinejoin\":\"round\",\"strokeWidth\":2,\"d\":\"M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z\"}]}],\"৩০ এপ্রিল ২০২৬\"]}]]}]]}],[\"$\",\"a\",null,{\"className\":\"md:min-w-[310px] md:max-w-[310px] min-w-64 max-w-64 bg-white overflow-hidden relative transition-all duration-100 ease-in-out rounded-lg p-2 hover:bg-gray-500 hover:bg-opacity-10 active:bg-opacity-20 cursor-pointer\",\"href\":\"/live/14a0adb4-e192-4038-ae57-6fdfeb47906f/155d4c58-3e49-43e1-a850-fd234e529df9\",\"children\":[[\"$\",\"div\",null,{\"className\":\"relative rounded-lg\",\"children\":[[\"$\",\"img\",null,{\"src\":\"https://codervaimedia.s3.ap-south-1.amazonaws.com/1777555200427-1.png\",\"alt\":\"Background pattern\",\"className\":\"rounded-lg object-cover w-full aspect-video\"}],false,false,[\"$\",\"div\",null,{\"className\":\"absolute bottom-0 bg-gray-500 backdrop-blur-sm bg-opacity-60 w-full right-0 flex justify-center gap-2 items-center p-1 rounded-b-lg\",\"children\":[\"$\",\"p\",null,{\"className\":\"text-center text-white\",\"children\":\"Recorded\"}]}]]}],[\"$\",\"div\",null,{\"className\":\"relative\",\"children\":[[\"$\",\"h2\",null,{\"className\":\"text-xl font-semibold mb-1\",\"children\":\"Unit 13 - Loneliness - Part 2\"}],[\"$\",\"div\",null,{\"className\":\"flex items-center text-sm text-gray-600\",\"children\":[[\"$\",\"svg\",null,{\"xmlns\":\"http://www.w3.org/2000/svg\",\"className\":\"h-4 w-4 mr-1\",\"fill\":\"none\",\"viewBox\":\"0 0 24 24\",\"stroke\":\"currentColor\",\"children\":[\"$\",\"path\",null,{\"strokeLinecap\":\"round\",\"strokeLinejoin\":\"round\",\"strokeWidth\":2,\"d\":\"M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z\"}]}],\"সন্ধ্যা ০৭:১৮\"]}],[\"$\",\"div\",null,{\"className\":\"flex items-center text-sm text-gray-600 mt-1\",\"children\":[[\"$\",\"svg\",null,{\"xmlns\":\"http://www.w3.org/2000/svg\",\"className\":\"h-4 w-4 mr-1\",\"fill\":\"none\",\"viewBox\":\"0 0 24 24\",\"stroke\":\"currentColor\",\"children\":[\"$\",\"path\",null,{\"strokeLinecap\":\"round\",\"strokeLinejoin\":\"round\",\"strokeWidth\":2,\"d\":\"M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z\"}]}],\"৩০ এপ্রিল ২০২৬\"]}]]}]]}],[\"$\",\"a\",null,{\"className\":\"md:min-w-[310px] md:max-w-[310px] min-w-64 max-w-64 bg-white overflow-hidden relative transition-all duration-100 ease-in-out rounded-lg p-2 hover:bg-gray-500 hover:bg-opacity-10 active:bg-opacity-20 cursor-pointer\",\"href\":\"/live/14a0adb4-e192-4038-ae57-6fdfeb47906f/e925f3cd-bf48-4070-a19c-633b951d34d3\",\"children\":[[\"$\",\"div\",null,{\"className\":\"relative rounded-lg\",\"children\":[[\"$\",\"img\",null,{\"src\":\"https://codervaimedia.s3.ap-south-1.amazonaws.com/1778425871939-Topic-2.png\",\"alt\":\"Background pattern\",\"className\":\"rounded-lg object-cover w-full aspect-video\"}],false,false,[\"$\",\"div\",null,{\"className\":\"absolute bottom-0 bg-gray-500 backdrop-blur-sm bg-opacity-60 w-full right-0 flex justify-center gap-2 items-center p-1 rounded-b-lg\",\"children\":[\"$\",\"p\",null,{\"className\":\"text-center text-white\",\"children\":\"Recorded\"}]}]]}],[\"$\",\"div\",null,{\"className\":\"relative\",\"children\":[[\"$\",\"h2\",null,{\"className\":\"text-xl font-semibold mb-1\",\"children\":\"Unit 13 - Loneliness - Part 3\"}],[\"$\",\"div\",null,{\"className\":\"flex items-center text-sm text-gray-600\",\"children\":[[\"$\",\"svg\",null,{\"xmlns\":\"http://www.w3.org/2000/svg\",\"className\":\"h-4 w-4 mr-1\",\"fill\":\"none\",\"viewBox\":\"0 0 24 24\",\"stroke\":\"currentColor\",\"children\":[\"$\",\"path\",null,{\"strokeLinecap\":\"round\",\"strokeLinejoin\":\"round\",\"strokeWidth\":2,\"d\":\"M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z\"}]}],\"রাত ০৯:১০\"]}],[\"$\",\"div\",null,{\"className\":\"flex items-center text-sm text-gray-600 mt-1\",\"children\":[[\"$\",\"svg\",null,{\"xmlns\":\"http://www.w3.org/2000/svg\",\"className\":\"h-4 w-4 mr-1\",\"fill\":\"none\",\"viewBox\":\"0 0 24 24\",\"stroke\":\"currentColor\",\"children\":[\"$\",\"path\",null,{\"strokeLinecap\":\"round\",\"strokeLinejoin\":\"round\",\"strokeWidth\":2,\"d\":\"M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z\"}]}],\"১০ মে ২০২৬\"]}]]}]]}]]}]]}],[\"$\",\"$L15\",null,{}]]}]\n"])
+        </script>
+req
+:authority
+acsfutureschool.com
+:method
+GET
+:path
+/live/14a0adb4-e192-4038-ae57-6fdfeb47906f/7c42b250-6caf-4879-ac3a-0956153669a1
+:scheme
+https
+accept
+text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+accept-encoding
+gzip, deflate, br, zstd
+accept-language
+en-US,en;q=0.9
+cache-control
+no-cache
+cookie
+_fbp=fb.1.1779891487626.501851316433639466; afs-acc-token-parent=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTgxMzQ1LCJqdGkiOiI2OWUyNzZhYi1iYzRhLTQ3ZWMtOTFkNS00OWRjZGRjYjg5NTgiLCJpYXQiOjE3Nzk4MDUyNDgsImV4cCI6MTc4MTEwMTI0OH0.L1yCztRr7Dh4bQXB42uQc_hOUZwuiHHAGBs1XetT61s; afs-refresh-token-parent=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTgxMzQ1LCJqdGkiOiI4YzcxYmI0Ny1jZmM5LTQ1NzItYjkwNC03NjhmOWM2NjVkYzQiLCJpYXQiOjE3Nzk4MDUyNDgsImV4cCI6MTc4MjM5NzI0OH0.ROmZ-eWHg2_3KskhqyumbpPBJVM5SJGsozmPqT3sq-o; afs-acc-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjQ2NDQ0LCJwaG9uZSI6IjAxNTE4MjczMjY4IiwiaXNHdWFyZGlhbiI6ZmFsc2UsIm5hbWUiOiJLSVlPVEFLQSBBWUFOT0tPSkkgIiwianRpIjoiYzE0ODQ1M2YtMTg4ZS00ZTAwLWE5MDEtZTNmNzA3NTg1YTkxIiwiaWF0IjoxNzc5ODA1MjQ4LCJleHAiOjE3ODExMDEyNDh9.KK8cEZaSnrIhGZLlX0L0ZYTxp3nrMNDbEdHWRLY_rH4; afs-refresh-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjQ2NDQ0LCJwaG9uZSI6IjAxNTE4MjczMjY4IiwiaXNHdWFyZGlhbiI6ZmFsc2UsIm5hbWUiOiJLSVlPVEFLQSBBWUFOT0tPSkkgIiwianRpIjoiZWMxMmZlYTEtZjlmOS00Y2YxLWFlN2EtNGExOTYwYzVmNWVkIiwiaWF0IjoxNzc5ODA1MjQ4LCJleHAiOjE3ODIzOTcyNDh9.DJpjtjfmy2wSQ-f5nVDbnRZZrnvKMSi7SsvTgCM8k-U; _gcl_au=1.1.949647844.1779891504; _hjSession_5234189=eyJpZCI6IjcxMTUxMzAxLTY0NzItNDE1NC1iY2Q3LTdiN2E2ZGU2OWU4NSIsImMiOjE3Nzk4OTE1MDM2NTAsInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjoxfQ==; _clck=1empnzm%5E2%5Eg6e%5E0%5E2338; _hjSessionUser_5234189=eyJpZCI6IjJlMDc1MmRiLWUzZTctNWQ4Ny1iZjNiLTMzNzkzMzUyZWUxMiIsImNyZWF0ZWQiOjE3Nzk4OTE1MDM2NDksImV4aXN0aW5nIjp0cnVlfQ==; cf_clearance=6LxhbMXI9WKfQveAc82G8ITT5TbNwdaq7vywuJxLA0g-1779892110-1.2.1.1-NkZ9sa8By9QRTAITwHhC3dIcjn5xohaiO.waxF35ISAdQAp9K16iZvz7BqEZIhrLh2IQFnQhVgf_TbO8Qyf67fs.nR99eiqjarscGWiUsz3gPv6CgVod16i4iEVXL0cdw6zBijPECHozlTp7Xgl5SMpDs8zJOBJjT257LSUl9lVYB.XqH0kU7_eokdOFXIwTwNv1RFjD5o2x1mHGR8zXFsJidZNTP8GC4mh0C3V7KUN.vnWaMVW8kOIYScHp3zAeh2Pjv_gL_wfk4W2xUIYELXJnh.tV1qCEeBhfpJQU91FihJdz8RXf35aUo9ObVH_6eSlCGbSN6mneZtvj8fUpgA; profile-cache={%22data%22:[{%22id%22:246444%2C%22parent_id%22:181345%2C%22phone%22:%2201518273268%22%2C%22focus_mode%22:false%2C%22is_parental_focus_mode%22:false%2C%22isGuardian%22:false%2C%22name%22:%22KIYOTAKA%20AYANOKOJI%20%22%2C%22imageUrl%22:%22https://pfp.acsfutureschool.com/1778603100110_wcu5k5d9_profile/01518273268FP03wE.png%22%2C%22school%22:%22CLASSROOM%20OF%20THE%20ELITE%22%2C%22class%22:10%2C%22is_popup_shown%22:true%2C%22section%22:null%2C%22isPremium%22:true}]%2C%22timestamp%22:1779892220575%2C%22expiresAt%22:1779978620575}; _clsk=134ihe%5E1779892401657%5E16%5E1%5Eo.clarity.ms%2Fcollect
+dnt
+1
+pragma
+no-cache
+priority
+u=0, i
+referer
+https://acsfutureschool.com/chapter/f889fe3b-353e-4232-b448-0ad75e3b84cc/live?chapterName=Unit+13+-+Loneliness+&subjectId=14a0adb4-e192-4038-ae57-6fdfeb47906f
+sec-ch-ua
+"Avast Secure Browser";v="147", "Not.A/Brand";v="8", "Chromium";v="147"
+sec-ch-ua-mobile
+?0
+sec-ch-ua-platform
+"Windows"
+sec-fetch-dest
+document
+sec-fetch-mode
+navigate
+sec-fetch-site
+same-origin
+sec-fetch-user
+?1
+upgrade-insecure-requests
+1
+user-agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Avast/147.0.0.0
+
+
+res has this type code
+ <script>
+            self.__next_f.push([1, "b:[\"$\",\"$L18\",null,{\"feedback\":{\"feedback\":null,\"hasAttended\":false},\"liveId\":\"dc1ff5dc-62e4-4e66-aec4-852251203ba6\",\"subjectId\":\"14a0adb4-e192-4038-ae57-6fdfeb47906f\",\"chapterId\":\"f889fe3b-353e-4232-b448-0ad75e3b84cc\",\"moduleId\":\"7c42b250-6caf-4879-ac3a-0956153669a1\",\"progress\":0,\"name\":\"Unit 13 - Loneliness - Part 1\",\"record_url\":\"https://iframe.mediadelivery.net/play/342579/c335ed3b-6623-472d-97ab-8b8e244366ba?token=d0f059caafae178f68e76c64fa36b887ae8d1b6c32cc7f124e5f2d694746e333\u0026expires=1779892667\",\"slide\":\"https://drive.google.com/file/d/129H3nu7PyNWH6y5uh-X9_VinHN8lxJnV/preview\",\"chapters\":[{\"chapterId\":\"f889fe3b-353e-4232-b448-0ad75e3b84cc\",\"title\":\"Unit 13 - Loneliness \",\"details\":\"৩টি ভিডিও . ২টি কুইজ . ১টি নোট . ০টি সাজেশন পিডিএফ\",\"open\":true},{\"chapterId\":\"54e70493-89df-4449-a94a-5323bcc0f8ec\",\"title\":\"Unit 12 - Roots\",\"details\":\"২টি ভিডিও . ২টি কুইজ . ০টি নোট . ০টি সাজেশন পিডিএফ\",\"open\":false},{\"chapterId\":\"b789edac-496a-4c6c-ab12-f384c6f92ddf\",\"title\":\"Summary Writing \u0026 Information Transfer\",\"details\":\"১টি ভিডিও . ০টি কুইজ . ০টি নোট . ০টি সাজেশন পিডিএফ\",\"open\":false},{\"chapterId\":\"49a64f19-3d8a-4ea7-9f9b-2e324bd33cb1\",\"title\":\"Unit 4 - Events and Festivals\",\"details\":\"৪টি ভিডিও . ৩টি কুইজ . ১টি নোট . ০টি সাজেশন পিডিএফ\",\"open\":false},{\"chapterId\":\"dff0a10b-9b14-4df7-96ad-3d50f83739e4\",\"title\":\"Unit 2 - Climate Change\",\"details\":\"২টি ভিডিও . ২টি কুইজ . ১টি নোট . ০টি সাজেশন পিডিএফ\",\"open\":false},{\"chapterId\":\"4b967fe6-11c9-4567-81d6-a70960a76e86\",\"title\":\"Unit 9 - Unconventional Jobs\",\"details\":\"৩টি ভিডিও . ৩টি কুইজ . ১টি নোট . ০টি সাজেশন পিডিএফ\",\"open\":false},{\"chapterId\":\"46fd3c45-203b-477e-83ba-fc5481f59804\",\"title\":\"Unit 5 - Problems Around Us \",\"details\":\"৩টি ভিডিও . ৩টি কুইজ . ১টি নোট . ০টি সাজেশন পিডিএফ\",\"open\":false},{\"chapterId\":\"78d24814-d387-4a69-9258-07435f2e21a9\",\"title\":\"Reading from English Literature \",\"details\":\"৪টি ভিডিও . ০টি কুইজ . ১টি নোট . ০টি সাজেশন পিডিএফ\",\"open\":false},{\"chapterId\":\"da313f60-d7b5-4ded-a78f-ad15d9622bdc\",\"title\":\"Answering Questions from Stories\",\"details\":\"১টি ভিডিও . ০টি কুইজ . ০টি নোট . ০টি সাজেশন পিডিএফ\",\"open\":false},{\"chapterId\":\"c5f3cbf1-ccee-4f5c-8dbf-edf6de7fb20b\",\"title\":\"Sense of Self\",\"details\":\"৩টি ভিডিও . ২টি কুইজ . ১টি নোট . ০টি সাজেশন পিডিএফ\",\"open\":false}],\"scheduledAt\":\"1777975200\",\"liveStatus\":\"recorded\",\"stream_link\":\"https://www.youtube.com/embed/TDey5v6hwxU?si=-1MquhmznV-TYX6N\"}]\n"])
+        </script>
+
+
+
+actual url urll be
+
+https://vz-a6f58c33-be8.b-cdn.net/c335ed3b-6623-472d-97ab-8b8e244366ba/playlist.m3u8
+
+sometimes chaptere id mayhave notes like here
+<script>
+            self.__next_f.push([1, "b:[\"$\",\"$L18\",null,{\"feedback\":{\"feedback\":null,\"hasAttended\":false},\"liveId\":\"1d2739c9-347e-4df5-9351-4bc63df5666f\",\"subjectId\":\"14a0adb4-e192-4038-ae57-6fdfeb47906f\",\"chapterId\":\"49a64f19-3d8a-4ea7-9f9b-2e324bd33cb1\",\"moduleId\":\"22e41169-66e6-4cfe-b71c-ab239eac83dd\",\"progress\":0,\"name\":\"Unit 4 - Events and Festivals - Part 1\",\"record_url\":\"https://iframe.mediadelivery.net/play/342579/e29d60a5-a888-4baf-9e5c-e6e66e445b23?token=bd47064aca9e30ddea5a17f7736e815a46bfc3e20d55f4f25e03cc0ff7668cfa\u0026expires=1779893994\",\"slide\":\"https://drive.google.com/file/d/1a7p0XCmvXkRt9eUue2ZGycPpm4h9YIyM/preview?usp=sharing\",\"chapters\":[{\"chapterId\":\"f889fe3b-353e-4232-b448-0ad75e3b84cc\",\"title\":\"Unit 13 - Loneliness \",\"details\":\"৩টি ভিডিও . ২টি কুইজ . ১টি নোট . ০টি সাজেশন পিডিএফ\",\"open\":false},{\"chapterId\":\"54e70493-89df-4449-a94a-5323bcc0f8ec\",\"title\":\"Unit 12 - Roots\",\"details\":\"২টি ভিডিও . ২টি কুইজ . ০টি নোট . ০টি সাজেশন পিডিএফ\",\"open\":false},{\"chapterId\":\"b789edac-496a-4c6c-ab12-f384c6f92ddf\",\"title\":\"Summary Writing \u0026 Information Transfer\",\"details\":\"১টি ভিডিও . ০টি কুইজ . ০টি নোট . ০টি সাজেশন পিডিএফ\",\"open\":false},{\"chapterId\":\"49a64f19-3d8a-4ea7-9f9b-2e324bd33cb1\",\"title\":\"Unit 4 - Events and Festivals\",\"details\":\"৪টি ভিডিও . ৩টি কুইজ . ১টি নোট . ০টি সাজেশন পিডিএফ\",\"open\":true},{\"chapterId\":\"dff0a10b-9b14-4df7-96ad-3d50f83739e4\",\"title\":\"Unit 2 - Climate Change\",\"details\":\"২টি ভিডিও . ২টি কুইজ . ১টি নোট . ০টি সাজেশন পিডিএফ\",\"open\":false},{\"chapterId\":\"4b967fe6-11c9-4567-81d6-a70960a76e86\",\"title\":\"Unit 9 - Unconventional Jobs\",\"details\":\"৩টি ভিডিও . ৩টি কুইজ . ১টি নোট . ০টি সাজেশন পিডিএফ\",\"open\":false},{\"chapterId\":\"46fd3c45-203b-477e-83ba-fc5481f59804\",\"title\":\"Unit 5 - Problems Around Us \",\"details\":\"৩টি ভিডিও . ৩টি কুইজ . ১টি নোট . ০টি সাজেশন পিডিএফ\",\"open\":false},{\"chapterId\":\"78d24814-d387-4a69-9258-07435f2e21a9\",\"title\":\"Reading from English Literature \",\"details\":\"৪টি ভিডিও . ০টি কুইজ . ১টি নোট . ০টি সাজেশন পিডিএফ\",\"open\":false},{\"chapterId\":\"da313f60-d7b5-4ded-a78f-ad15d9622bdc\",\"title\":\"Answering Questions from Stories\",\"details\":\"১টি ভিডিও . ০টি কুইজ . ০টি নোট . ০টি সাজেশন পিডিএফ\",\"open\":false},{\"chapterId\":\"c5f3cbf1-ccee-4f5c-8dbf-edf6de7fb20b\",\"title\":\"Sense of Self\",\"details\":\"৩টি ভিডিও . ২টি কুইজ . ১টি নোট . ০টি সাজেশন পিডিএফ\",\"open\":false}],\"scheduledAt\":\"1775728800\",\"liveStatus\":\"recorded\",\"stream_link\":\"https://www.youtube.com/embed/TYs17rZOC_A?si=UyVUU83QGLxqHNBi\"}]\n"])
+        </script>
+req
+:authority
+contentapi.acsfutureschool.com
+:method
+GET
+:path
+/api/module/chapter/49a64f19-3d8a-4ea7-9f9b-2e324bd33cb1
+:scheme
+https
+accept
+application/json, text/plain, */*
+accept-encoding
+gzip, deflate, br, zstd
+accept-language
+en-US,en;q=0.9
+authorization
+Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjQ2NDQ0LCJwaG9uZSI6IjAxNTE4MjczMjY4IiwiaXNHdWFyZGlhbiI6ZmFsc2UsIm5hbWUiOiJLSVlPVEFLQSBBWUFOT0tPSkkgIiwianRpIjoiYzE0ODQ1M2YtMTg4ZS00ZTAwLWE5MDEtZTNmNzA3NTg1YTkxIiwiaWF0IjoxNzc5ODA1MjQ4LCJleHAiOjE3ODExMDEyNDh9.KK8cEZaSnrIhGZLlX0L0ZYTxp3nrMNDbEdHWRLY_rH4
+cache-control
+no-cache
+dnt
+1
+origin
+https://acsfutureschool.com
+pragma
+no-cache
+priority
+u=1, i
+referer
+https://acsfutureschool.com/
+sec-ch-ua
+"Avast Secure Browser";v="147", "Not.A/Brand";v="8", "Chromium";v="147"
+sec-ch-ua-mobile
+?0
+sec-ch-ua-platform
+"Windows"
+sec-fetch-dest
+empty
+sec-fetch-mode
+cors
+sec-fetch-site
+same-site
+user-agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Avast/147.0.0.0
+
+
+res
+[
+    {
+        "id": "22e41169-66e6-4cfe-b71c-ab239eac83dd",
+        "name": "Unit 4 - Events and Festivals - Part 1",
+        "createdat": "2026-02-27T19:56:50.595Z",
+        "updatedat": "2026-02-27T19:56:50.595Z",
+        "courseid": "f139905f-ebb2-42b8-b42b-8c1c3dcc4f64",
+        "isActive": true,
+        "data": {
+            "thumbnail": "https://codervaimedia.s3.ap-south-1.amazonaws.com/1772222234341-Topic-7.png",
+            "notesPdfLink": ""
+        },
+        "type": 1,
+        "show_title": true,
+        "course_id_2": "b1a5bc24-104a-4f37-916c-9416ce89ead0",
+        "is_locked": true,
+        "demo_course_only": null,
+        "file_name": null,
+        "label": null,
+        "show": "both",
+        "dev_serial": null,
+        "exam_id": null,
+        "scheduled_at": "1775728800",
+        "live_status": "recorded",
+        "live_module_id": "1d2739c9-347e-4df5-9351-4bc63df5666f",
+        "start_time": null,
+        "end_time": null,
+        "access_status": "active"
+    },
+    {
+        "id": "2f025d02-372f-45e4-a239-11f459060e67",
+        "name": "Unit 4 - Events and Festivals - Part 2",
+        "createdat": "2026-04-13T13:22:43.735Z",
+        "updatedat": "2026-04-13T13:22:43.735Z",
+        "courseid": "f139905f-ebb2-42b8-b42b-8c1c3dcc4f64",
+        "isActive": true,
+        "data": {
+            "thumbnail": "https://codervaimedia.s3.ap-south-1.amazonaws.com/1776086587015-Topic-3.png",
+            "notesPdfLink": ""
+        },
+        "type": 1,
+        "show_title": true,
+        "course_id_2": "b1a5bc24-104a-4f37-916c-9416ce89ead0",
+        "is_locked": true,
+        "demo_course_only": null,
+        "file_name": null,
+        "label": null,
+        "show": "both",
+        "dev_serial": null,
+        "exam_id": null,
+        "scheduled_at": "1776333600",
+        "live_status": "recorded",
+        "live_module_id": "10ce4d6c-068e-4f1c-a888-c79bcc82717e",
+        "start_time": null,
+        "end_time": null,
+        "access_status": "active"
+    },
+    {
+        "id": "858cc7c5-b6d1-4a67-9ec5-ccf82921979b",
+        "name": "Unit 4 - Events and Festivals - Part 3",
+        "createdat": "2026-04-16T15:06:30.651Z",
+        "updatedat": "2026-04-16T15:06:30.651Z",
+        "courseid": "f139905f-ebb2-42b8-b42b-8c1c3dcc4f64",
+        "isActive": true,
+        "data": {
+            "thumbnail": "https://codervaimedia.s3.ap-south-1.amazonaws.com/1776352072261-Topic-8.png",
+            "notesPdfLink": ""
+        },
+        "type": 1,
+        "show_title": true,
+        "course_id_2": "b1a5bc24-104a-4f37-916c-9416ce89ead0",
+        "is_locked": true,
+        "demo_course_only": null,
+        "file_name": null,
+        "label": null,
+        "show": "both",
+        "dev_serial": null,
+        "exam_id": null,
+        "scheduled_at": "1776765600",
+        "live_status": "recorded",
+        "live_module_id": "40ff1b2c-5359-4caf-ba38-687a5f560e3e",
+        "start_time": null,
+        "end_time": null,
+        "access_status": "active"
+    },
+    {
+        "id": "a9d6157a-5777-48f8-bbc7-303b218fce58",
+        "name": "Unit 4 - Events and Festivals - Part 1",
+        "createdat": "2026-04-10T18:28:03.044Z",
+        "updatedat": "2026-04-10T18:28:03.044Z",
+        "courseid": "f139905f-ebb2-42b8-b42b-8c1c3dcc4f64",
+        "isActive": true,
+        "data": {
+            "thumbnail": "https://codervaimedia.s3.ap-south-1.amazonaws.com/1775845703725-1740897684227-b27791de-d60c-4de5-a202-3125aa3c63af.jpg",
+            "notesPdfLink": ""
+        },
+        "type": 3,
+        "show_title": true,
+        "course_id_2": "b1a5bc24-104a-4f37-916c-9416ce89ead0",
+        "is_locked": true,
+        "demo_course_only": null,
+        "file_name": null,
+        "label": null,
+        "show": "both",
+        "dev_serial": null,
+        "exam_id": "6d7ad496-934e-4a5f-9018-97d076fb96a6",
+        "scheduled_at": null,
+        "live_status": null,
+        "live_module_id": null,
+        "start_time": "2026-04-10T10:00:00.000Z",
+        "end_time": "2026-04-11T16:00:00.000Z",
+        "access_status": "active"
+    },
+    {
+        "id": "512f9b14-4fb1-485b-beec-a7ebaee85235",
+        "name": "Unit 4 - Events and Festivals - Part 2",
+        "createdat": "2026-04-29T09:28:10.098Z",
+        "updatedat": "2026-04-29T09:28:10.098Z",
+        "courseid": "f139905f-ebb2-42b8-b42b-8c1c3dcc4f64",
+        "isActive": true,
+        "data": {
+            "thumbnail": "https://codervaimedia.s3.ap-south-1.amazonaws.com/1777454910102-1740897684227-b27791de-d60c-4de5-a202-3125aa3c63af.jpg",
+            "notesPdfLink": ""
+        },
+        "type": 3,
+        "show_title": true,
+        "course_id_2": "b1a5bc24-104a-4f37-916c-9416ce89ead0",
+        "is_locked": true,
+        "demo_course_only": null,
+        "file_name": null,
+        "label": null,
+        "show": "both",
+        "dev_serial": null,
+        "exam_id": "60173e61-d1e1-450d-9acc-b6ba1ab0dfe0",
+        "scheduled_at": null,
+        "live_status": null,
+        "live_module_id": null,
+        "start_time": "2026-04-17T10:00:00.000Z",
+        "end_time": "2026-04-18T16:00:00.000Z",
+        "access_status": "active"
+    },
+    {
+        "id": "405163c6-3649-4845-be00-d5df45f86004",
+        "name": "Unit 4 - Events and Festivals - Part 3",
+        "createdat": "2026-04-29T08:02:12.486Z",
+        "updatedat": "2026-04-29T08:02:12.486Z",
+        "courseid": "f139905f-ebb2-42b8-b42b-8c1c3dcc4f64",
+        "isActive": true,
+        "data": {
+            "thumbnail": "https://codervaimedia.s3.ap-south-1.amazonaws.com/1777449776243-1740897684227-b27791de-d60c-4de5-a202-3125aa3c63af.jpg",
+            "notesPdfLink": ""
+        },
+        "type": 3,
+        "show_title": true,
+        "course_id_2": "b1a5bc24-104a-4f37-916c-9416ce89ead0",
+        "is_locked": true,
+        "demo_course_only": null,
+        "file_name": null,
+        "label": null,
+        "show": "both",
+        "dev_serial": null,
+        "exam_id": "382cb230-8170-4661-ba7f-cd7a4d8299bd",
+        "scheduled_at": null,
+        "live_status": null,
+        "live_module_id": null,
+        "start_time": "2026-04-22T10:00:00.000Z",
+        "end_time": "2026-04-23T16:00:00.000Z",
+        "access_status": "active"
+    },
+    {
+        "id": "4681bdf7-de14-4b30-b3b4-b64ecb2668ef",
+        "name": "Unit 4 - Events and Festivals",
+        "createdat": "2026-04-23T14:10:15.615Z",
+        "updatedat": "2026-04-23T14:10:15.615Z",
+        "courseid": "f139905f-ebb2-42b8-b42b-8c1c3dcc4f64",
+        "isActive": true,
+        "data": {
+            "thumbnail": "https://codervaimedia.s3.ap-south-1.amazonaws.com/1776953490479-%23Chapter.png",
+            "notesPdfLink": "https://drive.google.com/file/d/1Tv20zXP67yXk5M6ydgy-CmqYF2IC80wH/preview?usp=sharing",
+            "numberOfPages": "20"
+        },
+        "type": 2,
+        "show_title": true,
+        "course_id_2": null,
+        "is_locked": true,
+        "demo_course_only": null,
+        "file_name": null,
+        "label": null,
+        "show": "both",
+        "dev_serial": null,
+        "exam_id": null,
+        "scheduled_at": null,
+        "live_status": null,
+        "live_module_id": null,
+        "start_time": null,
+        "end_time": null,
+        "access_status": "active"
+    }
+]
+
+note pdf is the Note
